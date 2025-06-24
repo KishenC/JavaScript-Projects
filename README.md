@@ -5,4 +5,12 @@ repo with JavaScript projects
 
 # Math Operators with Functions including Additional, Subtraction, Multiplication, Division, Random Numbers between ranges,Modulus Operative, Increments and Decrement
 
-#Dictionary with Key Value Pairs
+# Dictionary with Key Value Pairs
+
+# Comparison operators 
+
+# Ternary Operators Constructors
+
+# Scope Time Functions
+
+# String Methods
