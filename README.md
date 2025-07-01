@@ -15,4 +15,4 @@ repo with JavaScript projects
 
 # String Methods
 
-#Countdown Timer and Automatic Slideshow
+# Countdown Timer and Automatic Slideshow
