@@ -14,3 +14,5 @@ repo with JavaScript projects
 # Scope Time Functions
 
 # String Methods
+
+#Countdown Timer and Automatic Slideshow
